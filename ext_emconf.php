@@ -2,7 +2,7 @@
 
 $EM_CONF[$_EXTKEY] = [
     'title' => 'Iconpack: Dripicons',
-    'description' => 'This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the "Dripicons Icons" in TYPO3.',
+    'description' => 'This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the "Dripicons Icons" in TYPO3.',
     'category' => 'fe',
     'state' => 'stable',
     'clearcacheonload' => true,
